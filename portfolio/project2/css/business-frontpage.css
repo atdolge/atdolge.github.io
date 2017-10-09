@@ -1,0 +1,53 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+
+body {
+  background-color: #001a4d;
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
+
+.navbar-skin {
+  color: #000;
+  background-color: #222;
+}
+
+.business-header {
+  height: 50vh;
+  min-height: 300px;
+  background: url('../img/uaheader.jpeg') center center no-repeat scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.card {
+  height: 100%;
+}
+
+.card-body {
+  color: #000;
+}
+
+.content-bgc {
+  color: #fff;
+  background-color: #001a4d;
+}
+
+.footer-bg {
+  background-color: #222;
+}
